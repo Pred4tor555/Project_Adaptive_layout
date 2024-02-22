@@ -1,2 +1,2 @@
-# Project_Adaptive_layout
-Website for the discipline "Adaptive layout"
+# PhotoArena
+A site where users can upload, view and share photos.
